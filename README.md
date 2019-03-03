@@ -1,6 +1,9 @@
 # @Input() Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+This is a small tutorial which talks about sending data from parent component to child component using @Input() API in Angular 7.
+
+## Step by Step Blog
+[Angular 7 @Input Decorator – Send Data From Parent to Child Component](https://www.positronx.io/angular-7-input-decorator-send-data-from-parent-to-child-component/)
 
 ## Development server
 
