@@ -5,6 +5,13 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
-  title = 'changedetectorref-angular';
+  fruits = ['Mengo', 'Orange', 'Banana'];
+
+  constructor() { }
+
+  addFruit(item) {
+    this.fruits.push(item);
+  }  
 }
